@@ -10,10 +10,14 @@ Fora do computador, sou apaixonada por livros, quebra-cabeças e arte. Essas ati
 **Aplicações e dados**
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+![TypeScript](https://camo.githubusercontent.com/d64bbad4f4cb520e4b74089f62b07e24961ee1b1abc980166bf061af9b7e2598/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f547970655363726970742d3236326133332e7376673f6c6f676f3d74797065736372697074266c6f676f436f6c6f723d303037414343)
 ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
 ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
 ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
 ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
+![MongoDB](https://camo.githubusercontent.com/4a587ec97361f3fb9439f9e61e8540c232e18356a7317815955ee4b27f174124/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4d6f6e676f44422d3236326133332e7376673f6c6f676f3d6d6f6e676f6462266c6f676f436f6c6f723d346561393462)
+![Prisma](https://camo.githubusercontent.com/872f1fadb74e66e050b61f519474f0a0ac1b796fed391da850069dcb81997366/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f507269736d612d3236326133333f266c6f676f3d507269736d61266c6f676f436f6c6f723d464646464646)
+![Node](https://camo.githubusercontent.com/63128b7c08cc8a9f1a23e0d7a7b537daa1f7d0d148db0caa90541c283eb64e0a/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4e6f64652e6a732d3236326133332e7376673f6c6f676f3d6e6f64652e6a73266c6f676f436f6c6f723d343338353344)
 
 **Utilidades**
 
